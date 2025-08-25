@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #0f172a;
+}
+
+.nav-links a{
+    color: #f1f5f9;
+}
+
+.nav-btn{
+    background-color: #e11d48;
+    color: #ffffff;
+}
+
+.hero{
+    background-color: #f1f5f9;
+}
+
+.hero h1{
+    color: #0f172a;
+}
+
+.hero p{
+    color: #334155;
+}
